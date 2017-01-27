@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gameBoard_1.png</file>
+        <file>gameBoard_2.png</file>
+        <file>Image_0.png</file>
+        <file>gameBoard_3.png</file>
+        <file>gameBoard_4.png</file>
+        <file>gameBoard_0.png</file>
+        <file>Image_1.png</file>
+        <file>Image_2.png</file>
+        <file>Image_3.png</file>
+        <file>Image_4.png</file>
+        <file>Image_5.png</file>
+        <file>Image_6.png</file>
+        <file>Image_7.png</file>
+        <file>Image_8.png</file>
+        <file>Image_9.png</file>
+        <file>appicon.ico</file>
+        <file>splash.png</file>
+        <file>gameBoard_5.png</file>
+        <file>gameBoard_6.png</file>
+    </qresource>
+</RCC>
